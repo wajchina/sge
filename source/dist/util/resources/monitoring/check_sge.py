@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 # check_sge - plugin for nagios to check the status of a host and its queues wtih SGE
 #

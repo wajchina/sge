@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 # JSV example for Python, translated from jsv.sh (so inherits the licence)
 
 #  The Contents of this file are made available subject to the terms of
